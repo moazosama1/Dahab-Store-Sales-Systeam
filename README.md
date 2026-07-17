@@ -26,6 +26,7 @@
 - [Technical Architecture](#-technical-architecture)
 - [Database Design](#-database-design)
 - [Tech Stack](#-tech-stack)
+- [Development Team](#-development-team)
 
 ---
 
@@ -451,15 +452,18 @@ UseCase  ──►  ViewModel (Cubit)  ──►  State  ──►  UI
 
 ---
 
-## 👨‍💻 Developer
+## 👥 Development Team
 
 <div align="center">
 
-**Moaz Osama**
+This project is developed and maintained by a team of passionate developers:
 
-[![GitHub](https://img.shields.io/badge/GitHub-moazosama1-181717?style=for-the-badge&logo=github)](https://github.com/moazosama1)
+<br/>
 
-*Flutter Developer · Clean Architecture · MVI · Supabase*
+| <img src="https://github.com/moazosama1.png" width="100" style="border-radius:50%"/> | <img src="https://github.com/youssefmdev22.png" width="100" style="border-radius:50%"/> | <img src="https://github.com/anashany-shift.png" width="100" style="border-radius:50%"/> | <img src="https://github.com/Bablu521.png" width="100" style="border-radius:50%"/> |
+| :---: | :---: | :---: | :---: |
+| **Moaz Osama** | **Youssef Mohamed** | **Anas Hany** | **Bablu** |
+| [![GitHub](https://img.shields.io/badge/GitHub-moazosama1-181717?style=flat-square&logo=github)](https://github.com/moazosama1) | [![GitHub](https://img.shields.io/badge/GitHub-youssefmdev22-181717?style=flat-square&logo=github)](https://github.com/youssefmdev22) | [![GitHub](https://img.shields.io/badge/GitHub-anashany--shift-181717?style=flat-square&logo=github)](https://github.com/anashany-shift) | [![GitHub](https://img.shields.io/badge/GitHub-Bablu521-181717?style=flat-square&logo=github)](https://github.com/Bablu521) |
 
 </div>
 
